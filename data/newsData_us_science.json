@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 69,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Length Of A Day Might Change As Earth's Inner Core Slowing Since 2010: Study - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com/news",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2024-06-15T05:13:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Bret Baier, Amy Munneke",
+      "title": "Medical breakthroughs discovered on International Space Station - Fox News",
+      "description": "Conducting experiments in microgravity at the International Space Station has allowed scientists to make medical breakthroughs with the potential to help countless people on Earth.",
+      "url": "https://www.foxnews.com/science/medical-breakthroughs-discovered-international-space-station",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/NASA-Astronaut-Protein-Crystals-Courtesy-MAYO-CLINIC.jpg",
+      "publishedAt": "2024-06-15T01:20:00Z",
+      "content": "WASHINGTON Research at the International Space Station (ISS) is helping doctors on Earth find new treatment options for patients.\r\n\"There is a lot of excitement about this and many other kinds of res… [+5346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WESH Orlando"
+      },
+      "author": "Allison Petro",
+      "title": "SpaceX aborts Falcon 9 rocket launch from Cape Canaveral - WESH 2 Orlando",
+      "description": "SpaceX aborted Friday's launch of the Falcon 9 rocket, which was set to take 22 Starlink satellites to low-Earth orbit.",
+      "url": "https://www.wesh.com/article/spacex-aborts-falcon-9-rocket-launch-from-cape-canaveral-friday/61114003",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/screenshot-2024-06-14-171853-666cb3d007689.png?crop=1xw:0.9582352941176471xh;center,top&resize=1200:*",
+      "publishedAt": "2024-06-14T22:13:00Z",
+      "content": "CAPE CANAVERAL, Fla. —SpaceX aborted Friday's launch of the Falcon 9 rocket, which was set to take 22 Starlink satellites to low-Earth orbit.\r\nThe launch was initially scheduled for Wednesday. Howeve… [+294 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Sharmila Kuthunur",
+      "title": "Private space-junk-inspection probe spots discarded rocket in orbit up close (photo) - Space.com",
+      "description": "The company Astroscale is looking to address the major problem of space debris in Earth orbit.",
+      "url": "https://www.space.com/astroscale-space-junk-probe-photo",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7n2VwCHNmMSB2s2CS8LmmF-1200-80.jpg",
+      "publishedAt": "2024-06-14T22:00:01Z",
+      "content": "This is how decades-old space junk drifting in Earth's orbit would look like seen from just 50 meters (164 feet) away.\r\nYou are looking at the spent upper stage of a discarded Japanese rocket that la… [+3074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Stefanie Waldek",
+      "title": "Voyager 1 is back online! NASA's most distant spacecraft returns data from all 4 instruments - Space.com",
+      "description": "The spacecraft has resumed full science operations after a technical issue began creating complications in November 2023.",
+      "url": "https://www.space.com/voyager-1-fully-operational",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Aevg5Lf897c5wagmjmsp8Z-1200-80.jpg",
+      "publishedAt": "2024-06-14T21:40:40Z",
+      "content": "All right, everyone — we can all breathe a sigh of relief. NASA's Voyager 1\r\n spacecraft is fully operational once more, with all four science instruments returning usable data to Earth.\r\nThe problem… [+2401 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Melvin Backman",
+      "title": "Boeing Starliner landing delayed - Quartz",
+      "description": "Helium leaks might again be pushing back a big part of the spacecraft's first crewed mission",
+      "url": "https://qz.com/boeing-starliner-landing-delayed-1851541354",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3a52068c205b9b761a923478f8986dbf.jpg",
+      "publishedAt": "2024-06-14T20:48:00Z",
+      "content": "The Boeing CST-100 Starliner is facing yet another delay. Though the spacecraft successfully launched June 5 after weeks of last-minute hold-ups that followed nearly a decades worth of waiting, it wi… [+1238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "David Andreatta",
+      "title": "Physicists confirm quantum entanglement persists between top quarks, the heaviest known fundamental particles - Phys.org",
+      "description": "An experiment by a group of physicists led by University of Rochester physics professor Regina Demina has produced a significant result related to quantum entanglement—an effect that Albert Einstein called \"spooky action at a distance.\"",
+      "url": "https://phys.org/news/2024-06-physicists-quantum-entanglement-persists-quarks.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/physicists-find-spooky.jpg",
+      "publishedAt": "2024-06-14T20:09:56Z",
+      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+4478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "The Universe: Earth's Celestial Neighbors and Cosmic Enemies *3 Hour Marathon* - HISTORY",
+      "description": "Asteroids and comets may be responsible for the delivery of a lot of the building blocks of life. See more in this three hour marathon from The Universe. #Th...",
+      "url": "https://www.youtube.com/watch?v=TJUGxLKj4Cw",
+      "urlToImage": "https://i.ytimg.com/vi/TJUGxLKj4Cw/maxresdefault.jpg",
+      "publishedAt": "2024-06-14T20:00:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Joshua Hawkins, Joshua Hawkins",
+      "title": "Starship may have bigger problems than just getting its launch right - BGR",
+      "description": "Residents around Kennedy Space Center and Cape Canaveral have started to comment on growing Starship environmental concerns.",
+      "url": "https://bgr.com/science/starship-may-have-bigger-problems-than-just-getting-its-launch-right/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2024/03/starship-launch-overview.png",
+      "publishedAt": "2024-06-14T19:36:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "New Visible Star Is Coming // Starship Mars Sample Return // Frost on Olympus Mons - Fraser Cain",
+      "description": "We’re now weeks away from a nova, NASA is looking for new Mars Sample Return mission ideas, there’s frost on Olympus Mons, and watching asteroids collide in ...",
+      "url": "https://www.youtube.com/watch?v=yPGGi1-yAUE",
+      "urlToImage": "https://i.ytimg.com/vi/yPGGi1-yAUE/maxresdefault.jpg",
+      "publishedAt": "2024-06-14T19:04:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Robert Lea",
+      "title": "Astronomers get closer to solving the lingering mystery of fast radio bursts - Space.com",
+      "description": "\"What's more mysterious than explosions happening thousands of times per day all over the sky, and you have no idea what's causing them?\"",
+      "url": "https://www.space.com/fast-radio-burst-mystery-polarized-light",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HMG8ZU3uM9GezKcRH2p3gW-1200-80.gif",
+      "publishedAt": "2024-06-14T19:00:01Z",
+      "content": "Fast radio bursts (FRBs) are intense, short-lived blasts of radio waves hailing from beyond the Milky Way that can emit the same amount of energy in just thousandths of a second that the sun takes th… [+7786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "Space Rock That Fell to Earth Reveals Ancient Traces of Early Solar System - ScienceAlert",
+      "description": "A lot as changed in the 4.5 billion or so years since the Solar System first came together from a disk-shaped cloud of swirling dust and gas.",
+      "url": "https://www.sciencealert.com/space-rock-that-fell-to-earth-reveals-ancient-traces-of-early-solar-system",
+      "urlToImage": "https://www.sciencealert.com/images/2024/06/stem-clasts.jpg",
+      "publishedAt": "2024-06-14T18:01:20Z",
+      "content": "A lot as changed in the 4.5 billion or so years since the Solar System first came together from a disk-shaped cloud of swirling dust and gas.\r\nThe stuff from which everything formed has undergone som… [+3994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Science X",
+      "title": "Quantum entangled photons react to Earth's spin - Phys.org",
+      "description": "A team of researchers led by Philip Walther at the University of Vienna carried out a pioneering experiment where they measured the effect of the rotation of Earth on quantum entangled photons. The work, published in Science Advances, represents a significant…",
+      "url": "https://phys.org/news/2024-06-quantum-entangled-photons-react-earth.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/quantum-entanglement-m-1.jpg",
+      "publishedAt": "2024-06-14T18:00:01Z",
+      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Keith Cooper",
+      "title": "12 billion years of black hole history, revealed through X-rays and simulations - Space.com",
+      "description": "Supermassive black holes at the centers of large galaxies grew mostly through the accretion of gas, with the occasional boost from mergers with other black holes.",
+      "url": "https://www.space.com/x-ray-simulations-universe-supermassive-black-holes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JYtPFt7jfWEGVYKWgPnLJc-1200-80.jpg",
+      "publishedAt": "2024-06-14T18:00:01Z",
+      "content": "The black hearts of galaxies have had their history told almost in full for the first time, as astronomers combined X-ray observations with detailed supercomputer models to chronicle the growth of su… [+6369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IFLScience"
+      },
+      "author": "Dr. Katie Spalding",
+      "title": "Super Mario Bros. Is Mathematically Impossible To Solve - IFLScience",
+      "description": "It's-a me! An undecidable problem in-a complexity theory!",
+      "url": "https://www.iflscience.com/super-mario-bros-is-mathematically-impossible-to-solve-74663",
+      "urlToImage": "https://assets.iflscience.com/assets/articleNo/74663/aImg/76860/mario-meta.jpg",
+      "publishedAt": "2024-06-14T17:45:16Z",
+      "content": "Here are two facts about math that often go unadvertised: firstly, there are some problems that are simply unsolvable. Its not that you personally arent smart enough, or that youre using the wrong me… [+3411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sacramento Bee"
+      },
+      "author": "Irene Wright",
+      "title": "Deep-sea creature — holding ‘giant eggs’ — may be new species off Mexico. See it swim - Sacramento Bee",
+      "description": "A large female squid was caught on video brooding “giant eggs,” and she might be a new species. It was found off the coast of Mexico.",
+      "url": "https://www.sacbee.com/news/nation-world/world/article289277440.html",
+      "urlToImage": "https://www.miamiherald.com/latest-news/vuess6/picture289277385/alternates/LANDSCAPE_1140/cristian-palmer-XexawgzYOBc-unsplash.jpg",
+      "publishedAt": "2024-06-14T17:07:17Z",
+      "content": "World\r\nAs technology advances, fewer corners of the planet remain untouched.\r\nBut in the depths of the ocean, there is an entire world yet to be explored.\r\nThats why we have robots.\r\nResearchers from… [+2529 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SpaceNews"
+      },
+      "author": "Leonard David",
+      "title": "Moon ice in the Artemis era: what we still don't know - SpaceNews",
+      "description": "While NASA has long hoped for extractable water ice on the lunar surface, making use of the resource may be harder than expected.",
+      "url": "https://spacenews.com/moon-ice-in-the-artemis-era-what-we-still-dont-know/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2024/06/PHOTO-3-IM-2-HOPPER.jpg",
+      "publishedAt": "2024-06-14T17:06:14Z",
+      "content": "GOLDEN, Colorado A hot topic for moon researchers is whether water ice is an easily accessible resource at the lunar south pole, as experts have long assumed. The search for exploitable water ice is … [+4270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Weather Channel"
+      },
+      "author": "The Weather Channel",
+      "title": "NASA ISS Live Stream Was False Alarm, Not Emergency | Weather.com - The Weather Channel",
+      "description": "A NASA live stream from the International Space station caused quite a scare. Here's what happened.",
+      "url": "https://weather.com/science/space/news/2024-06-14-nasa-iss-ive-stream-space-station-false-alarm",
+      "urlToImage": "https://s.w-x.co/NASASpaceStation2024.01.jpg",
+      "publishedAt": "2024-06-14T17:05:26Z",
+      "content": "At a Glance\r\n<ul><li>A NASA live stream from the International Space Station cut to disturbing audio.</li><li>The audio seemed to indicate a medical emergency on board.</li><li>NASA said it was a mis… [+2246 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "John Timmer",
+      "title": "To kill the competition, bacteria throw pieces of dead viruses at them - Ars Technica",
+      "description": "A network of mutual murder ensures that diverse populations of bacteria survive.",
+      "url": "https://arstechnica.com/science/2024/06/bacteria-use-pieces-of-dead-viruses-to-kill-their-competitors/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1179029438-760x380.jpg",
+      "publishedAt": "2024-06-14T16:50:43Z",
+      "content": "Enlarge/ This is an intact phage. A tailocin looks like one of these with its head cut off.\r\n10\r\nLong before humans became interested in killing bacteria, viruses were on the job. Viruses that attack… [+5284 chars]"
+    }
+  ]
+}

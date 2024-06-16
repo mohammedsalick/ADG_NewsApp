@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Liverpool Echo",
+      "title": "Taylor Swift LIVE updates as Eras Tour star to play final show in Liverpool - Liverpool Echo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvd2hhdHMtb24vbXVzaWMtbmlnaHRsaWZlLW5ld3MvdGF5bG9yLXN3aWZ0LWxpdmVycG9vbC1maW5hbC1saXZlLTI5MzM4NjM00gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T10:29:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Mail",
+      "title": "Crowds arrive for Kate: Royal supporters out on the Mall as preparations begin for Trooping the Colour when ca - Daily Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1MzI5NzkvVHJvb3BpbmctQ29sb3VyLTIwMjQtS2F0ZS1NaWRkbGV0b24tS2luZy1DaGFybGVzLUxvbmRvbi5odG1s0gFyaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzUzMjk3OS9hbXAvVHJvb3BpbmctQ29sb3VyLTIwMjQtS2F0ZS1NaWRkbGV0b24tS2luZy1DaGFybGVzLUxvbmRvbi5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T09:25:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "Vinyl came back from the dead – and so did the bootleggers: inside the booming business of knock-off records - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vbXVzaWMvYXJ0aWNsZS8yMDI0L2p1bi8xNS92aW55bC1jYW1lLWJhY2stZnJvbS10aGUtZGVhZC1hbmQtc28tZGlkLXRoZS1ib290bGVnZ2Vycy1pbnNpZGUtdGhlLWJvb21pbmctYnVzaW5lc3Mtb2Yta25vY2stb2ZmLXJlY29yZHPSAZ8BaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL211c2ljL2FydGljbGUvMjAyNC9qdW4vMTUvdmlueWwtY2FtZS1iYWNrLWZyb20tdGhlLWRlYWQtYW5kLXNvLWRpZC10aGUtYm9vdGxlZ2dlcnMtaW5zaWRlLXRoZS1ib29taW5nLWJ1c2luZXNzLW9mLWtub2NrLW9mZi1yZWNvcmRz?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T08:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Mail",
+      "title": "Katie Price lifts the lid on her breakdown, breakups and bankruptcy - as she reveals plans to be a life coach, - Daily Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTM1MjYxNTcvS2F0aWUtUHJpY2UtYnJlYWtkb3duLWJyZWFrdXBzLWJhbmtydXB0Y3ktbGlmZS1jb2FjaC1jaGlsZHJlbi10b3lib3kuaHRtbNIBhAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTM1MjYxNTcvYW1wL0thdGllLVByaWNlLWJyZWFrZG93bi1icmVha3Vwcy1iYW5rcnVwdGN5LWxpZmUtY29hY2gtY2hpbGRyZW4tdG95Ym95Lmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T07:36:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "Inside Out 2 to House of the Dragon: a complete guide to this week’s entertainment - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9jdWx0dXJlL2FydGljbGUvMjAyNC9qdW4vMTUvYS1jb21wbGV0ZS1ndWlkZS10by10aGlzLXdlZWtzLWVudGVydGFpbm1lbnTSAWRodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vY3VsdHVyZS9hcnRpY2xlLzIwMjQvanVuLzE1L2EtY29tcGxldGUtZ3VpZGUtdG8tdGhpcy13ZWVrcy1lbnRlcnRhaW5tZW50?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T05:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "Blind date: ‘We completely lost track of time and chatted for hours’ - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvYXJ0aWNsZS8yMDI0L2p1bi8xNS9ibGluZC1kYXRlLXJlYmVjY2EtbGFyc9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T05:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Financial Times",
+      "title": "After Baillie Gifford, who is 'clean' enough to fund the arts? - Financial Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2YxN2E3OTE0LWM2YWMtNGJjYy04YWE2LTNhZDYxNWNlODk0MNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T04:00:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC",
+      "title": "Trooping the Colour live: Kate seen in public for first time since cancer diagnosis - BBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2xpdmUvdWstNjkxMjE0OTjSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T02:21:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Leicestershire Live",
+      "title": "Steve Coogan's 'weasel-like' portrayal of Leicester academic in The Lost King was defamatory, judge rules - Leicestershire Live",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmxlaWNlc3Rlcm1lcmN1cnkuY28udWsvbmV3cy9sZWljZXN0ZXItbmV3cy9zdGV2ZS1jb29nYW5zLXdlYXNlbC1saWtlLXBvcnRyYXlhbC05MzQ0NzY20gFmaHR0cHM6Ly93d3cubGVpY2VzdGVybWVyY3VyeS5jby51ay9uZXdzL2xlaWNlc3Rlci1uZXdzL3N0ZXZlLWNvb2dhbnMtd2Vhc2VsLWxpa2UtcG9ydHJheWFsLTkzNDQ3NjYuYW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T02:18:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC.com",
+      "title": "Lost Boys and Fairies: ‘My husband and I cried like a baby watching it’ - BBC.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbHd3N3B3Z3o0MG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2x3dzdwd2d6NDBvLmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T01:25:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sky News",
+      "title": "Jake Gyllenhaal on being roommates with brother-in-law Peter Sarsgaard - Sky News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2pha2UtZ3lsbGVuaGFhbC1vbi1iZWluZy1yb29tbWF0ZXMtd2l0aC1icm90aGVyLWluLWxhdy1wZXRlci1zYXJzZ2FhcmQtMTMxNTI5OTfSAW5odHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvamFrZS1neWxsZW5oYWFsLW9uLWJlaW5nLXJvb21tYXRlcy13aXRoLWJyb3RoZXItaW4tbGF3LXBldGVyLXNhcnNnYWFyZC0xMzE1Mjk5Nw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T00:53:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC",
+      "title": "The Contestant: Reality TV show saw man live on competition prizes - BBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N6OTl5cjZkcTQxb9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N6OTl5cjZkcTQxby5hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T00:01:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC.com",
+      "title": "Tracey Emin on becoming a dame and getting cancer all-clear - BBC.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNTExdzBwMTFkM2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzUxMXcwcDExZDNvLmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T23:09:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Mail",
+      "title": "Jennifer Lopez looks strained as both she and Ben Affleck arrive separately to their Beverly Hills office... a - Daily Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTM1MzIxNDkvSmVubmlmZXItTG9wZXotc3RyYWluZWQtQmVuLUFmZmxlY2stYXJyaXZlLXNlcGFyYXRlbHktQmV2ZXJseS1IaWxscy1vZmZpY2UtY2xhaW1zLXNpbmdlci1zYWx2YWdlLWRvb21lZC1tYXJyaWFnZS5odG1s0gGwAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay90dnNob3diaXovYXJ0aWNsZS0xMzUzMjE0OS9hbXAvSmVubmlmZXItTG9wZXotc3RyYWluZWQtQmVuLUFmZmxlY2stYXJyaXZlLXNlcGFyYXRlbHktQmV2ZXJseS1IaWxscy1vZmZpY2UtY2xhaW1zLXNpbmdlci1zYWx2YWdlLWRvb21lZC1tYXJyaWFnZS5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T22:49:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "https://wrestletalk.com/",
+      "title": "5 Debuts At WWE Clash At The Castle 2024 - https://wrestletalk.com/",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3Jlc3RsZXRhbGsuY29tL2ZlYXR1cmVzL3d3ZS1jbGFzaC1hdC10aGUtY2FzdGxlLTIwMjQtNS1kZWJ1dHMv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T22:38:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "Naomi Klein: ‘Nobody’s perfect – but that’s not an excuse for doing nothing’ - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9ib29rcy9hcnRpY2xlLzIwMjQvanVuLzE0L25hb21pLWtsZWluLW5vYm9keXMtcGVyZmVjdC1idXQtdGhhdHMtbm90LWFuLWV4Y3VzZS1mb3ItZG9pbmctbm90aGluZ9IBe2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9ib29rcy9hcnRpY2xlLzIwMjQvanVuLzE0L25hb21pLWtsZWluLW5vYm9keXMtcGVyZmVjdC1idXQtdGhhdHMtbm90LWFuLWV4Y3VzZS1mb3ItZG9pbmctbm90aGluZw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T21:54:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC",
+      "title": "Duran Duran frontman Simon Le Bon receives MBE - BBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M4MDBqejd4MXoyb9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M4MDBqejd4MXoyby5hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T21:34:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Mirror",
+      "title": "Gogglebox star Giles issues concerning marriage update with 'incompatible' wife Mary - The Mirror",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3MvZ29nZ2xlYm94LXN0YXItZ2lsZXMtaXNzdWVzLWNvbmNlcm5pbmctMzMwMzUzNjHSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T20:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Mail",
+      "title": "Do you know how to say this Irish name? - Daily Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1MzE3MTUvaXJpc2gtbWVycmlhbS13ZWJzdGVyLWhhcmRlc3QtcHJvbm91bmNlLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T19:43:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Wrestling Inc.",
+      "title": "WWE Star Drew McIntyre Says His Wife Is Undergoing Emergency Surgery - Wrestling Inc.",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LndyZXN0bGluZ2luYy5jb20vMTYwMzE3OC93d2Utc3Rhci1kcmV3LW1jaW50eXJlLXNheXMtd2lmZS11bmRlcmdvaW5nLWVtZXJnZW5jeS1zdXJnZXJ5L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T18:54:09Z",
+      "content": null
+    }
+  ]
+}

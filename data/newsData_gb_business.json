@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Chronicle Live",
+      "title": "Shoppers issued 'do not eat' warning for 45 supermarket items over E. coli fears - Chronicle Live",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNocm9uaWNsZWxpdmUuY28udWsvbmV3cy9oZWFsdGgvc2hvcHBlcnMtaXNzdWVkLWRvLW5vdC1lYXQtMjkzNTk3NznSAVNodHRwczovL3d3dy5jaHJvbmljbGVsaXZlLmNvLnVrL25ld3MvaGVhbHRoL3Nob3BwZXJzLWlzc3VlZC1kby1ub3QtZWF0LTI5MzU5Nzc5LmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T09:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Mail",
+      "title": "Our newbuild nightmare! Couple say moving into brand-new £419,000 home that is 'riddled with mould' is 'the bi - Daily Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTE3NjEzL091ci1uZXdidWlsZC1uaWdodG1hcmUtQ291cGxlLXNheS1tb3ZpbmctYnJhbmQtbmV3LTQxOS0wMDAtaG9tZS1yaWRkbGVkLW1vdWxkLWJpZ2dlc3QtcmVncmV0LWxpdmVzLmh0bWzSAZ0BaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzUxNzYxMy9hbXAvT3VyLW5ld2J1aWxkLW5pZ2h0bWFyZS1Db3VwbGUtc2F5LW1vdmluZy1icmFuZC1uZXctNDE5LTAwMC1ob21lLXJpZGRsZWQtbW91bGQtYmlnZ2VzdC1yZWdyZXQtbGl2ZXMuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T07:28:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "How town centres are recovering from the fall of Debenhams - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy9hcnRpY2xlLzIwMjQvanVuLzE1L2hvdy10b3duLWNlbnRyZXMtYXJlLXJlY292ZXJpbmctZnJvbS10aGUtZmFsbC1vZi1kZWJlbmhhbXPSAXNodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvYXJ0aWNsZS8yMDI0L2p1bi8xNS9ob3ctdG93bi1jZW50cmVzLWFyZS1yZWNvdmVyaW5nLWZyb20tdGhlLWZhbGwtb2YtZGViZW5oYW1z?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T07:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Chronicle Live",
+      "title": "I visited the stunning Northumberland village where more and more couples are choosing to get married - Chronicle Live",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNocm9uaWNsZWxpdmUuY28udWsvbmV3cy9ub3J0aC1lYXN0LW5ld3MvdmlzaXRlZC1pZHlsbGljLW5vcnRodW1iZXJsYW5kLXZpbGxhZ2Utc3R1bm5pbmctMjkzNDM2NTXSAXFodHRwczovL3d3dy5jaHJvbmljbGVsaXZlLmNvLnVrL25ld3Mvbm9ydGgtZWFzdC1uZXdzL3Zpc2l0ZWQtaWR5bGxpYy1ub3J0aHVtYmVybGFuZC12aWxsYWdlLXN0dW5uaW5nLTI5MzQzNjU1LmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:33:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Manchester Evening News",
+      "title": "'We're the area where rent has gone up the most. Why? We're the poorest town going' - Manchester Evening News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL2dyZWF0ZXItbWFuY2hlc3Rlci1uZXdzL3dlcmUtYXJlYS1yZW50LWdvbmUtdXAtMjkzMzg2MTbSAWhodHRwczovL3d3dy5tYW5jaGVzdGVyZXZlbmluZ25ld3MuY28udWsvbmV3cy9ncmVhdGVyLW1hbmNoZXN0ZXItbmV3cy93ZXJlLWFyZWEtcmVudC1nb25lLXVwLTI5MzM4NjE2LmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:04:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "‘The big problem is water’: UK ebike owners plagued by failing motors - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvYXJ0aWNsZS8yMDI0L2p1bi8xNS90aGUtYmlnLXByb2JsZW0taXMtd2F0ZXItdWstZWJpa2Utb3duZXJzLXBsYWd1ZWQtYnktZmFpbGluZy1tb3RvcnPSAX9odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbGlmZWFuZHN0eWxlL2FydGljbGUvMjAyNC9qdW4vMTUvdGhlLWJpZy1wcm9ibGVtLWlzLXdhdGVyLXVrLWViaWtlLW93bmVycy1wbGFndWVkLWJ5LWZhaWxpbmctbW90b3Jz?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC",
+      "title": "'Mortgage rise means I can't afford to live here anymore' - BBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NrNzd3bjFyenh6b9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NrNzd3bjFyenh6by5hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T05:39:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Kent Online",
+      "title": "New £9m supermarket to open after store wars with Tesco - Kent Online",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvc2hlZXJuZXNzL25ld3MvbmV3LTktbWlsbGlvbi1zdXBlcm1hcmtldC1zZXQtdG8tb3Blbi1hZnRlci15ZWFycy1vZi1kZWxheXMtMzA4MTY5L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T04:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "News & Star",
+      "title": "Supermarket chain set for Carlisle's House of Fraser building | News and Star - News & Star",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5ld3NhbmRzdGFyLmNvLnVrL25ld3MvMjQzODgzNTkubmV3LXN1cGVybWFya2V0LW91dGxldC1zZXQtY2FybGlzbGVzLWhvdXNlLWZyYXNlci1idWlsZGluZy_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T04:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Plymouth Live",
+      "title": "Old school pub in centre of Plymouth completely transformed - Plymouth Live",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnBseW1vdXRoaGVyYWxkLmNvLnVrL3doYXRzLW9uL3doYXRzLW9uLW5ld3Mvb2xkLXNjaG9vbC1wdWItY2VudHJlLXBseW1vdXRoLTkzMzgwODnSAWJodHRwczovL3d3dy5wbHltb3V0aGhlcmFsZC5jby51ay93aGF0cy1vbi93aGF0cy1vbi1uZXdzL29sZC1zY2hvb2wtcHViLWNlbnRyZS1wbHltb3V0aC05MzM4MDg5LmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T04:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "North Wales Live",
+      "title": "Retailer wants go-ahead to move to Llandudno retail park or says could leave town - North Wales Live",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRhaWx5cG9zdC5jby51ay9uZXdzL25vcnRoLXdhbGVzLW5ld3MvcmV0YWlsZXItd2FudHMtZ28tYWhlYWQtbW92ZS0yOTM1NjA2NtIBW2h0dHBzOi8vd3d3LmRhaWx5cG9zdC5jby51ay9uZXdzL25vcnRoLXdhbGVzLW5ld3MvcmV0YWlsZXItd2FudHMtZ28tYWhlYWQtbW92ZS0yOTM1NjA2Ni5hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T03:38:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Mail",
+      "title": "Viral video shows Missouri man not scanning a full shopping cart of items at Walmart but he says he's 'not a t - Daily Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1MzIxNDUvVmlyYWwtVmlkZW8tV2FsbWFydC1NaXNzb3VyaS1TaG9wcGVyLW5vdC1zY2FuLWl0ZW1zLmh0bWzSAW5odHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTMyMTQ1L2FtcC9WaXJhbC1WaWRlby1XYWxtYXJ0LU1pc3NvdXJpLVNob3BwZXItbm90LXNjYW4taXRlbXMuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T22:55:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Chronicle Live",
+      "title": "All the North East people named in King's Birthday Honours 2024 - see full list - Chronicle Live",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNocm9uaWNsZWxpdmUuY28udWsvbmV3cy9ub3J0aC1lYXN0LW5ld3Mvbm9ydGgtZWFzdC1wZW9wbGUtbmFtZWQta2luZ3MtMjkzNTM2MTHSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T21:31:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "London Stock Exchange CEO honoured in king’s birthday list - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdW4vMTQvbG9uZG9uLXN0b2NrLWV4Y2hhbmdlLWNlby1qdWxpYS1ob2dnZXR0LWhvbm91cmVkLWluLWtpbmdzLWJpcnRoZGF5LWxpc3TSAX9odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdWstbmV3cy9hcnRpY2xlLzIwMjQvanVuLzE0L2xvbmRvbi1zdG9jay1leGNoYW5nZS1jZW8tanVsaWEtaG9nZ2V0dC1ob25vdXJlZC1pbi1raW5ncy1iaXJ0aGRheS1saXN0?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T21:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC.com",
+      "title": "Gower: Landowner who cut down protected woodland fined - BBC.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbWpqNWdsNm0wcG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY21qajVnbDZtMHBvLmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T21:20:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Express",
+      "title": "Martin Lewis says ditch Tesco, Asda and Sainsbury’s cards for 'better' deal - Express",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvZmluYW5jZS9wZXJzb25hbGZpbmFuY2UvMTkxMTQ5NS9NYXJ0aW4tTGV3aXMtZGl0Y2gtVGVzY28tQXNkYS1TYWluc2J1cnlzLWNhcmRz0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T20:58:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Financial Times",
+      "title": "Lord of Sark looks to float chunk of island with deal for Barclay estate - Financial Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzZhMzQxMGEwLTY1MjItNGJlNy05NTk2LWEyYmQ3OGNkNzM2ZdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T20:00:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "Attacks on Barclays put our staff at risk and are not justified by Middle East events - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvYXJ0aWNsZS8yMDI0L2p1bi8xNC9hdHRhY2tzLW9uLWJhcmNsYXlzLXB1dC1vdXItc3RhZmYtYXQtcmlzay1hbmQtYXJlLW5vdC1qdXN0aWZpZWQtYnktbWlkZGxlLWVhc3QtZXZlbnRz0gGOAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy9hcnRpY2xlLzIwMjQvanVuLzE0L2F0dGFja3Mtb24tYmFyY2xheXMtcHV0LW91ci1zdGFmZi1hdC1yaXNrLWFuZC1hcmUtbm90LWp1c3RpZmllZC1ieS1taWRkbGUtZWFzdC1ldmVudHM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T19:33:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Sun",
+      "title": "‘World’s worst plane ticket’ revealed as budget airline launches ‘ultra basic’ no-frills option…so would YO... - The Sun",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay90cmF2ZWwvMjg1MDc0MTQvYnVkZ2V0LWFpcmxpbmUtbGF1bmNoZXMtdWx0cmEtYmFzaWMtbm8tZnJpbGxzLW9wdGlvbi_SAWJodHRwczovL3d3dy50aGVzdW4uY28udWsvdHJhdmVsLzI4NTA3NDE0L2J1ZGdldC1haXJsaW5lLWxhdW5jaGVzLXVsdHJhLWJhc2ljLW5vLWZyaWxscy1vcHRpb24vYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T19:28:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Express",
+      "title": "Martin Lewis state pension bombshell to anyone born after 1951 - Express",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvZmluYW5jZS9wZXJzb25hbGZpbmFuY2UvMTkxMTQ3Mi9NYXJ0aW4tTGV3aXMtc3RhdGUtcGVuc2lvbtIBWGh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvZmluYW5jZS9wZXJzb25hbGZpbmFuY2UvMTkxMTQ3Mi9NYXJ0aW4tTGV3aXMtc3RhdGUtcGVuc2lvbi9hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T19:08:00Z",
+      "content": null
+    }
+  ]
+}

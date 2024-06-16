@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sky News",
+      "title": "Former Arsenal and Everton star Kevin Campbell dies aged 54 - Sky News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2Zvcm1lci1hcnNlbmFsLWFuZC1ldmVydG9uLXN0YXIta2V2aW4tY2FtcGJlbGwtZGllcy1hZ2VkLTU0LTEzMTUzNDIz0gFjaHR0cHM6Ly9uZXdzLnNreS5jb20vc3RvcnkvYW1wL2Zvcm1lci1hcnNlbmFsLWFuZC1ldmVydG9uLXN0YXIta2V2aW4tY2FtcGJlbGwtZGllcy1hZ2VkLTU0LTEzMTUzNDIz?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T10:18:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TEAMtalk",
+      "title": "Chelsea get green light for Jhon Duran deal but two major Boehly concerns emerge - TEAMtalk",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnRlYW10YWxrLmNvbS9jaGVsc2VhL2JsdWVzLWdyZWVuLWxpZ2h0LWpob24tZHVyYW4tZGVhbC10d28tbWFqb3ItYm9laGx5LWNvbmNlcm5zLWVtZXJnZdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T08:52:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "This Is Anfield",
+      "title": "Southgate has made it clear he's now banking on Alexander-Arnold - This Is Anfield",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoaXNpc2FuZmllbGQuY29tLzIwMjQvMDYvZ2FyZXRoLXNvdXRoZ2F0ZS1oYXMtbWFkZS1pdC1jbGVhci1oZXMtbm93LWJhbmtpbmctb24tdHJlbnQtYWxleGFuZGVyLWFybm9sZC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T08:40:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Goal.com",
+      "title": "'Sell Maguire!' - Rio Ferdinand names the four Man United players he'd sell as he opens up on club's Mason Greenwood dilemma - Goal.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5nb2FsLmNvbS9lbi1nYi9saXN0cy9yaW8tZmVyZGluYW5kLW5hbWVzLWZvdXItbWFuLXVuaXRlZC1wbGF5ZXJzLXNlbGwtbWFzb24tZ3JlZW53b29kLWhhcnJ5LW1hZ3VpcmUvYmx0ZjE4OTI3MDIyZmM0MDk5ZNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T08:31:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "Euro 2024: trio of games await on day two as Scotland react to thrashing – live - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vZm9vdGJhbGwvbGl2ZS8yMDI0L2p1bi8xNS9ldXJvLTIwMjQtdHJpby1vZi1nYW1lcy1hd2FpdC1vbi1kYXktdHdvLWFzLXNjb3RsYW5kLXJlYWN0LXRvLXRocmFzaGluZy1saXZl0gGCAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjQvanVuLzE1L2V1cm8tMjAyNC10cmlvLW9mLWdhbWVzLWF3YWl0LW9uLWRheS10d28tYXMtc2NvdGxhbmQtcmVhY3QtdG8tdGhyYXNoaW5nLWxpdmU?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T08:31:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Scotsman",
+      "title": "Roy Keane aims explosive rant at Andy Robertson as Scotland captain accused of talking 'rubbish' - The Scotsman",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5zY290c21hbi5jb20vc3BvcnQvZm9vdGJhbGwvcm95LWtlYW5lLWFpbXMtZXhwbG9zaXZlLXJhbnQtYXQtYW5keS1yb2JlcnRzb24tYXMtc2NvdGxhbmQtY2FwdGFpbi1hY2N1c2VkLW9mLXRhbGtpbmctcnViYmlzaC00NjY3MTE00gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T08:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Liverpool Echo",
+      "title": "Liverpool presented with Leny Yoro transfer boost thanks to Euro 2024 decision - Liverpool Echo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvc3BvcnQvZm9vdGJhbGwvdHJhbnNmZXItbmV3cy9saXZlcnBvb2wtcHJlc2VudGVkLWxlbnkteW9yby10cmFuc2Zlci0yOTM1OTYyMNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T08:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Mail",
+      "title": "Millwall star dead at 26: Matija Sarkic tragically passes away after falling ill as tributes pour in for the g - Daily Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlLTEzNTMzMDc5L01pbGx3YWxsLXN0YXItZGVhZC0yNi1NYXRpamEtU2Fya2ljLWRpZXMtZ29hbGtlZXBlci5odG1s0gF4aHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGUtMTM1MzMwNzkvYW1wL01pbGx3YWxsLXN0YXItZGVhZC0yNi1NYXRpamEtU2Fya2ljLWRpZXMtZ29hbGtlZXBlci5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T07:57:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Toffeeweb",
+      "title": "Friedkin Group emerge as favourites to buy Everton - Toffeeweb",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnRvZmZlZXdlYi5jb20vc2Vhc29uLzIzLTI0L25ld3MvNDQ5MzYuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T07:50:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "Rain, grit and skill: how USA’s part-timers came to mix it with cricket’s elite - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9hcnRpY2xlLzIwMjQvanVuLzE1L3VzYS1jcmlja2V0LXdvcmxkLWN1cC1xdWVzdGlvbnMtYW5zd2VyZWQtZXhwbGFpbmVyc9IBaWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9hcnRpY2xlLzIwMjQvanVuLzE1L3VzYS1jcmlja2V0LXdvcmxkLWN1cC1xdWVzdGlvbnMtYW5zd2VyZWQtZXhwbGFpbmVycw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T07:48:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Autosport",
+      "title": "Jota completes Le Mans airfield shakedown of rebuilt Porsche - Autosport",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmF1dG9zcG9ydC5jb20vbGUtbWFucy9uZXdzL2pvdGEtY29tcGxldGVzLWxlLW1hbnMtYWlyZmllbGQtc2hha2Vkb3duLW9mLXJlYnVpbHQtcG9yc2NoZS8xMDYyMzU5OC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T07:37:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TEAMtalk",
+      "title": "Arsenal transfers: Edu takes sledgehammer to TWO Man Utd deals after commencing £50m Everton raid - TEAMtalk",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRlYW10YWxrLmNvbS9hcnNlbmFsL2d1bm5lcnMtdGFrZS1zbGVkZ2VoYW1tZXItdHdvLW1hbi11dGQtdHJhbnNmZXJzLWNvbnRhY3RpbmctZXZlcnRvbi01MG0tcmFpZNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T07:17:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Racingnews365.com",
+      "title": "Starting grid for the 2024 24 Hours of Le Mans - Racingnews365.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vcmFjaW5nbmV3czM2NS5jb20vc3RhcnRpbmctZ3JpZC1mb3ItdGhlLTIwMjQtMjQtaG91cnMtb2YtbGUtbWFuc9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T07:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Goal.com",
+      "title": "Mitro's on fire, England should be terrified! How Serbia's former Fulham favourite Aleksandar Mitrovic outshone Saudi Pro League superstars to be in ideal form for Euro 2024 - Goal.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5nb2FsLmNvbS9lbi1nYi9saXN0cy9taXRyby1vbi1maXJlLWVuZ2xhbmQtdGVycmlmaWVkLXNlcmJpYS1mb3JtZXItZnVsaGFtLWZhdm91cml0ZS1zYXVkaS1wcm8tbGVhZ3VlLWlkZWFsLWZvcm0tZXVyby0yMDI0L2JsdDdkMDBiMGJkOTA4OTM5OTnSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T07:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sports Mole",
+      "title": "Manchester Utd candidates 'shocked' by cut-price offers before Erik ten Hag call - Sports Mole",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5zcG9ydHNtb2xlLmNvLnVrL2Zvb3RiYWxsL21hbi11dGQvbmV3cy9tYW4tdXRkLWNhbmRpZGF0ZXMtc2hvY2tlZC1ieS1jdXQtcHJpY2Utb2ZmZXJzLWJlZm9yZS10ZW4taGFnLWNhbGxfNTQ1OTc2Lmh0bWzSAYEBaHR0cHM6Ly93d3cuc3BvcnRzbW9sZS5jby51ay9mb290YmFsbC9tYW4tdXRkL25ld3MvbWFuLXV0ZC1jYW5kaWRhdGVzLXNob2NrZWQtYnktY3V0LXByaWNlLW9mZmVycy1iZWZvcmUtdGVuLWhhZy1jYWxsXzU0NTk3Ni5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:48:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TEAMtalk",
+      "title": "Man Utd transfers: Ten Hag wins after second centre-back signing kickstarted; new discounted bid to seal deal - TEAMtalk",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRlYW10YWxrLmNvbS9tYW5jaGVzdGVyLXVuaXRlZC90ZW4taGFnLXdpbnMtbWFuLXV0ZC1raWNrc3RhcnQtc2Vjb25kLWNlbnRyZS1iYWNrLXNpZ25pbmctZGlzY291bnRlZC1iaWQtc2VhbC1kZWFs0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:40:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Liverpool Echo",
+      "title": "Liverpool make Chelsea 'contact' over Levi Colwill as four Arne Slot transfer possibilities outlined - Liverpool Echo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvc3BvcnQvZm9vdGJhbGwvdHJhbnNmZXItbmV3cy9saXZlcnBvb2wtbWFrZS1jaGVsc2VhLWNvbnRhY3Qtb3Zlci0yOTM1OTUwNdIBbWh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvc3BvcnQvZm9vdGJhbGwvdHJhbnNmZXItbmV3cy9saXZlcnBvb2wtbWFrZS1jaGVsc2VhLWNvbnRhY3Qtb3Zlci0yOTM1OTUwNS5hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC",
+      "title": "T20 World Cup results: South Africa survive Nepal scare, New Zealand thrash Uganda - BBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9jcmlja2V0L2FydGljbGVzL2NqNTVwcmcxdm44b9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T05:42:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Football.London",
+      "title": "Michael Olise's Chelsea exit explained as club open talks with Crystal Palace over £60m transfer - Football.London",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZvb3RiYWxsLmxvbmRvbi9jaGVsc2VhLWZjL3RyYW5zZmVyLW5ld3MvbWljaGFlbC1vbGlzZXMtY2hlbHNlYS1leGl0LWV4cGxhaW5lZC0yOTM1Njc0MNIBZ2h0dHBzOi8vd3d3LmZvb3RiYWxsLmxvbmRvbi9jaGVsc2VhLWZjL3RyYW5zZmVyLW5ld3MvbWljaGFlbC1vbGlzZXMtY2hlbHNlYS1leGl0LWV4cGxhaW5lZC0yOTM1Njc0MC5hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T05:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Liverpool Echo",
+      "title": "Liverpool have just let slip their transfer plans for present and future - Liverpool Echo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvc3BvcnQvZm9vdGJhbGwvdHJhbnNmZXItbmV3cy9saXZlcnBvb2wtanVzdC1zbGlwLXRyYW5zZmVyLXBsYW5zLTI5MzUzNTI40gFsaHR0cHM6Ly93d3cubGl2ZXJwb29sZWNoby5jby51ay9zcG9ydC9mb290YmFsbC90cmFuc2Zlci1uZXdzL2xpdmVycG9vbC1qdXN0LXNsaXAtdHJhbnNmZXItcGxhbnMtMjkzNTM1MjguYW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T03:59:20Z",
+      "content": null
+    }
+  ]
+}

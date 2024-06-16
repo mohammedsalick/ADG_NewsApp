@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Ben Golliver",
+      "title": "Luka Doncic, Mavericks dodge Finals sweep by blowing out Celtics - The Washington Post",
+      "description": "Doncic scores 29 points in only 33 minutes in a game that saw most key players on the bench by midway through the fourth quarter.",
+      "url": "https://www.washingtonpost.com/sports/2024/06/14/celtics-mavericks-luka-doncic-nba-finals/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V4YQ54EQDFCT7NYBHWV7PLE2IA_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-06-15T10:30:27Z",
+      "content": "DALLAS Kyrie Irving promised that the Dallas Mavericks, faced with the prospect of an unexpected sweep at the hands of the Boston Celtics, would bring out the bazooka and shoot our shots with their s… [+5658 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Lauren Said-Moorhouse, Billy Stockwell",
+      "title": "Catherine, Princess of Wales attends King’s birthday celebration after revealing ‘good progress’ in cancer treatment - CNN",
+      "description": "Catherine, Princess of Wales has arrived at Buckingham Palace for Trooping the Colour - the King’s official birthday parade - in what will be her first public appearance since revealing her cancer diagnosis.",
+      "url": "https://www.cnn.com/2024/06/15/uk/trooping-the-colour-princess-kate-intl-scli-gbr/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01j0dpdhvjsyv4847he4ktbwpy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-15T10:06:00Z",
+      "content": "Catherine, Princess of Wales has made her first public appearance since being diagnosed with cancer, joining other royals in London for Trooping the Colour, the Kings official birthday parade.\r\nThe P… [+3831 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "John Fritze, Tierney Sneed",
+      "title": "Supreme Court’s abortion pill ruling puts new focus on conservative Trump judge in Texas - CNN",
+      "description": "The Supreme Court’s decision this week rebuffing an effort to restrict access to mifepristone is unlikely to be the final word on the abortion pill.",
+      "url": "https://www.cnn.com/2024/06/15/politics/abortion-judge-matthew-kacsmaryk-supreme-court-mifepristone/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231212140430-01-anti-abortion-protesters-0421.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-15T08:00:00Z",
+      "content": "The Supreme Courts decision this week rebuffing an effort to restrict access to mifepristone is unlikely to be the final word on the abortion pill and the next person to speak will almost certainly b… [+8325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Las Vegas shooting survivors stunned by Supreme Court gun ruling - BBC.com",
+      "description": "One survivor told the BBC the bump stocks decision was \"a slap in the face\", but others had mixed feelings.",
+      "url": "https://www.bbc.com/news/articles/c033d532354o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1365/live/424fb0e0-2a94-11ef-a392-bbae7f2e2112.jpg",
+      "publishedAt": "2024-06-15T06:56:58Z",
+      "content": "By Kayla Epstein, BBC News\r\nOn 1 October 2017, Heather Gooze was serving drinks at the Route 91 music festival in Las Vegas when concert-goers began running into her bar, screaming and covered in blo… [+4819 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Afghanistan: What happened to the women who protested against the Taliban? - BBC.com",
+      "description": "Afghan women tell the BBC they were beaten and tortured for protesting against the Taliban.",
+      "url": "https://www.bbc.com/news/articles/c9xxklr0070o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ed75/live/c5cca2c0-27d3-11ef-a74e-9d61efed4dbb.jpg",
+      "publishedAt": "2024-06-15T05:54:21Z",
+      "content": "By Mahjooba Nowrouzi, BBC Afghan Service \r\nParwana Ibrahimkhail Nijrabi was imprisoned after protesting against the Taliban\r\nAfter the Taliban restricted Afghan women's ability to work, learn and go … [+7748 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Boeing investigated after 'Dutch roll' - BBC.com",
+      "description": "Air regulators are investigating new issues with Boeing planes.",
+      "url": "https://www.bbc.com/news/articles/c722j0rryrxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/240c/live/3fd15c80-2a6a-11ef-bd2f-21d471757b76.jpg",
+      "publishedAt": "2024-06-15T05:28:06Z",
+      "content": "By Natalie Sherman, BBC News\r\nUS regulators are investigating after a Boeing 737 Max 8 flown by Southwest Airlines rocked side to side while in air, a potentially dangerous movement known as a Dutch … [+3123 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Anthony D'Alessandro",
+      "title": "Sweet Emotion: Pixar’s ‘Inside Out 2’ Eyes Third Best Animated Pic Opening Of All-Time With $140M-$145M – Late Friday Night Box Office Update - Deadline",
+      "description": "'Inside Out 2' Sees Great $13M In Thursday Previews the best so far in 2024 YTD, heading to $100M opening. 'Bad Boys' franchise crosses $1 billion.",
+      "url": "http://deadline.com/2024/06/box-office-inside-out-2-1235973432/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/06/MCDINOU_WD005.jpg?w=1024",
+      "publishedAt": "2024-06-15T04:57:00Z",
+      "content": "FRIDAY PM: There’s not stopping the influx of cash at theaters coast to coast for Disney/Pixar’s Inside Out 2which is ending Friday at $60M, the second best opening day for an animated movie after th… [+5972 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": null,
+      "title": "Charles Barkley says he's retiring from TV after 2024-25 - ESPN",
+      "description": "Charles Barkley, part of the highly popular, award-winning \"Inside the NBA\" studio show, said Friday night that the 2024-25 season will be his last with TNT and that he won't be joining any other network beyond that, either.",
+      "url": "https://www.espn.com/nba/story/_/id/40354302/charles-barkley-says-next-season-final-one-tv",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0205%2Fnba_g_barkley_mb_1296x729.jpg",
+      "publishedAt": "2024-06-15T04:38:00Z",
+      "content": "Jun 15, 2024, 12:38 AM ET\r\nCharles Barkley says next season will be his final one on TV.\r\nBarkley, part of the highly popular, award-winning \"Inside the NBA\" studio show, said Friday night that the 2… [+2750 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "AAMER MADHANI",
+      "title": "Harris stepping in for Biden at Ukraine summit as she takes growing role in heat of 2024 campaign - The Associated Press",
+      "description": "It’s Vice President Kamala Harris, not President Joe Biden, who will join world leaders in Switzerland on Saturday and meet with Ukraine’s Volodymyr Zelenskyy to discuss his vision for ending the grinding war launched by Russia. Biden on Friday wrapped up tal…",
+      "url": "https://apnews.com/article/harris-ukraine-peace-summit-switzerland-biden-41cb00bba18a80ca88abf9e5b378110a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d61d363/2147483647/strip/true/crop/3756x2113+0+197/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2F48%2F57a3f1c2ae513018f6d57639bf3b%2F007fab62019240e4acbb3f26c7a0dd00",
+      "publishedAt": "2024-06-15T04:00:00Z",
+      "content": "WASHINGTON (AP) Its Vice President Kamala Harris, not President Joe Biden, who will join world leaders in Switzerland on Saturday and meet one-on-one with Ukraines Volodymyr Zelenskyy to discuss his … [+7180 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YourTango"
+      },
+      "author": "Ruby Miranda",
+      "title": "3 Zodiac Signs Overcome The Past & Heal From Heartache On June 15 - YourTango",
+      "description": "We've got a Waxing Moon in Libra that lets us know that this healing is only just beginning, and that we have much to look forward to. Something good is coming our way, and this time, we aren't standing in the way of it.",
+      "url": "https://www.yourtango.com/2024375217/zodiac-signs-overcome-past-heal-heartache-june-15-2024",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2024-06/zodiac-signs-overcome-past-heal-heartache-horoscopes-june-15-2024.png",
+      "publishedAt": "2024-06-15T03:04:06Z",
+      "content": "Welcome to the middle of June, my zodiac sign friends. Saturday, June 15, is here, and with it come many great events. So much of what's happening takes place because the astrology tells us of the Li… [+4615 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "David Martin, Margaret Brennan",
+      "title": "Tensions between Israel and Hezbollah stir U.S. fears of wider conflict - CBS News",
+      "description": "Since Oct. 7, the Biden administration has been furiously working behind the scenes to lower the chances of a conflagration that could draw in the U.S. or put at further risk U.S. troops who are in the region in Syria, Iraq and Jordan.",
+      "url": "https://www.cbsnews.com/news/israel-hezbollah-tensions-fear-of-wider-conflict/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/14/887df0ba-03ad-40d2-9aa8-0e680c63016f/thumbnail/1200x630/be300cb1d6c098a9307f73f960bf1477/gettyimages-2156655890.jpg?v=5842509bb796a146f9b20d3e8b03dac6",
+      "publishedAt": "2024-06-15T02:51:24Z",
+      "content": "A barrage of missiles this week exchanged between Israel and Hezbollah in Lebanon have made U.S. officials increasingly concerned that the escalation could spiral the war-torn region into a broader c… [+3300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": "Sabba Rahbar",
+      "title": "Teen Mom Star Amber Portwood's Fiancé Gary Wayt Found After Disappearance - E! NEWS",
+      "description": "Teen Mom star Ambert Portwood’s fiancé Gary Wayt was found after he was reported missing, with an update from North Carolina police saying the case is closed.",
+      "url": "https://www.eonline.com/news/1403750/teen-mom-star-amber-portwoods-fiance-gary-wayt-found-after-disappearance",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024511/rs_1200x1200-240611142308-amber-portwood-gary-wayt.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-06-15T02:00:00Z",
+      "content": "The investigation into the disappearance of Amber Portwoods fiancé has come to an end.\r\nLess than a week after Gary Wayt was reported missing in North Carolina, the Bryson City Police Department anno… [+779 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Olivia Rinaldi",
+      "title": "Trump celebrates 78th birthday in West Palm Beach as Rubio makes surprise appearance - CBS News",
+      "description": "It was Sen. Marco Rubio's first time appearing on the 2024 campaign trail alongside former President Donald Trump.",
+      "url": "https://www.cbsnews.com/news/trump-78th-birthday-west-palm-beach-marco-rubio-surprise-appearance/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/15/eb8c01b2-afb8-4690-acb8-4ededcd2fbaa/thumbnail/1200x630/97a30c30111b3134fdabe76f99f918b8/gettyimages-2157626200.jpg?v=5842509bb796a146f9b20d3e8b03dac6",
+      "publishedAt": "2024-06-15T01:59:00Z",
+      "content": "West Palm Beach, Florida — Former President Donald Trump Friday night celebrated his 78th birthday in a packed Palm Beach Convention Center filled with supporters — including Republican Sen. Marco Ru… [+4231 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KMBC Kansas City"
+      },
+      "author": "Nick Sloan",
+      "title": "A Super mistake? There's an error on the Kansas City Chiefs' Super Bowl ring - KMBC Kansas City",
+      "description": "The Super Bowl champions' rings for the Kansas City Chiefs have an error, as they display the wrong seed number for one of their postseason opponents.",
+      "url": "https://www.kmbc.com/article/super-bowl-ring-mistake-kansas-city-chiefs/61115130",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/231ca3f2-8d3b-4913-b46b-59ff56b0956a/567cad87-1d43-4d98-a760-b9485614a3f2.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+      "publishedAt": "2024-06-15T01:43:00Z",
+      "content": "KANSAS CITY, Mo. —The Super Bowl champions' rings for the Kansas City Chiefs have an error, as they display the wrong seed number for one of their postseason opponents. \r\nThe Kansas City Chiefs share… [+653 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "US oil refining capacity rises for second year in a row - Reuters",
+      "description": "U.S. crude oil refining capacity rose 1.5% to 18.38 million barrels per day (bpd) this year, a government report showed on Friday as a major new expansion in Texas boosted capacity.",
+      "url": "https://www.reuters.com/markets/commodities/us-oil-refining-capacity-falls-3rd-time-four-years-report-says-2024-06-14/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4M7DQCGNWZOIRJJ7XLXJMVW6LU.jpg?auth=f537c12a1163ae49e29fbfbb6a2267d76875135d1e6d71fe6066f59b535f278f&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-06-15T01:16:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jon Passantino, Nicki Brown, Oliver Darcy, Hadas Gold",
+      "title": "Judge rejects bankruptcy plan for Alex Jones’ Infowars but allows him to liquidate his personal assets - CNN",
+      "description": "A Texas bankruptcy judge has rejected a proposed liquidation of conspiracy theorist Alex Jones’ company Free Speech Systems, the parent company of Infowars, saying it was, in his opinion, in the best interest of the creditors.",
+      "url": "https://www.cnn.com/2024/06/14/media/infowars-alex-jones-liquidation-ruling/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24166523698090-copy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-15T01:03:00Z",
+      "content": "A Texas bankruptcy judge has rejected a proposed liquidation of conspiracy theorist Alex Jones company Free Speech Systems, the parent company of Infowars, saying that a denial of the bankruptcy plan… [+6679 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jack Baer",
+      "title": "Michael Chandler responds after Conor McGregor pulls out of long-awaited UFC 303 fight - Yahoo Sports",
+      "description": "It's really hard to overstate just how badly agreeing to fight Conor McGregor has worked out for the 38-year-old Chandler.",
+      "url": "https://sports.yahoo.com/michael-chandler-responds-after-conor-mcgregor-pulls-out-of-long-awaited-ufc-303-fight-233146323.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YeEfwoEAh1zrt9FYHqqAAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/ff54c250-2aa5-11ef-a9fd-4111301e23e9",
+      "publishedAt": "2024-06-15T00:34:00Z",
+      "content": "The biggest loser of Conor McGregor pulling out of UFC 303 wasn't McGregor, it was the guy who waited more than a year and a half to fight him.\r\nThat person is Michael Chandler, a popular lightweight… [+2380 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Tierney Sneed, Holmes Lybrand",
+      "title": "Johnson says House will go to court for Biden recordings after DOJ says it won’t prosecute AG Garland - CNN",
+      "description": "House Speaker Mike Johnson said Friday he will move in federal court to enforce a subpoena against Attorney General Merrick Garland to obtain audio recordings of President Joe Biden, after the Justice Department declined to act on the House’s contempt referra…",
+      "url": "https://www.cnn.com/2024/06/14/politics/merrick-garland-contempt-vote-no-prosecution/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1953206469.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-15T00:33:00Z",
+      "content": "House Speaker Mike Johnson said Friday he will move in federal court to enforce a subpoena against Attorney General Merrick Garland to obtain audio recordings of President Joe Biden, after the Justic… [+2999 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Shareholders show how much Elon Musk means to Tesla - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/06/14/tesla-elon-musk-shareholder-vote",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T00:31:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "GERALD IMRAY, MOGOMOTSI MAGOME",
+      "title": "South Africa's President Ramaphosa is reelected for second term after a dramatic late coalition deal - The Associated Press",
+      "description": "South African President Cyril Ramaphosa has been reelected by lawmakers for a second term after his African National Congress party struck a dramatic late coalition deal with the main opposition and other parties. Ramaphosa won convincingly in a vote late Fri…",
+      "url": "https://apnews.com/article/south-africa-president-election-parliament-b71d8f3de7b3bb4be76f94e8d75f0daf",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d14cb70/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbf%2Fc9%2Fc8becfd6982b20aee04501f5213b%2F7a7f16405e34450cae5185e721929b0c",
+      "publishedAt": "2024-06-14T23:44:00Z",
+      "content": "CAPE TOWN, South Africa (AP) South African President Cyril Ramaphosa was reelected by lawmakers for a second term on Friday, after his party struck a dramatic late coalition deal with a former politi… [+5319 chars]"
+    }
+  ]
+}

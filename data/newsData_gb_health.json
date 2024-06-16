@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 69,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Mail",
+      "title": "As concerns grow over dengue fever spreading across Europe, why DO mosquitos bite some people... but leave oth - Daily Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9oZWFsdGgvYXJ0aWNsZS0xMzUyOTgyOS9kZW5ndWUtZmV2ZXItRXVyb3BlLW1vc3F1aXRvcy1iaXRlLmh0bWzSAV9odHRwczovL3d3dy5kYWlseW1haWwuY28udWsvaGVhbHRoL2FydGljbGUtMTM1Mjk4MjkvYW1wL2Rlbmd1ZS1mZXZlci1FdXJvcGUtbW9zcXVpdG9zLWJpdGUuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:58:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Manchester Evening News",
+      "title": "Mum, 27, left fighting for her life in hospital weeks after giving birth - Manchester Evening News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL2dyZWF0ZXItbWFuY2hlc3Rlci1uZXdzL211bS0yNy1sZWZ0LWZpZ2h0aW5nLWxpZmUtMjkzMjk3OTjSAWtodHRwczovL3d3dy5tYW5jaGVzdGVyZXZlbmluZ25ld3MuY28udWsvbmV3cy9ncmVhdGVyLW1hbmNoZXN0ZXItbmV3cy9tdW0tMjctbGVmdC1maWdodGluZy1saWZlLTI5MzI5Nzk4LmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:53:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "GB News",
+      "title": "Menopause skin care: The food group that is 'key' to 'regenerating' the skin during menopause - GB News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmdibmV3cy5jb20vbGlmZXN0eWxlL21lbm9wYXVzZS1wcm90ZWluLWhvdy10by1sb29rLXlvdW5nZXLSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:00:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Express",
+      "title": "'I thought I had heartburn but pain in the night turned into horror diagnosis' - Express",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbGlmZS1zdHlsZS9oZWFsdGgvMTkxMDkwMS9tYW4tbWlzdG9vay1oZWFydC1hdHRhY2stc3ltcHRvbXMtaGVhcnRidXJu0gFjaHR0cHM6Ly93d3cuZXhwcmVzcy5jby51ay9saWZlLXN0eWxlL2hlYWx0aC8xOTEwOTAxL21hbi1taXN0b29rLWhlYXJ0LWF0dGFjay1zeW1wdG9tcy1oZWFydGJ1cm4vYW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Mail",
+      "title": "NHS urges people to accept invite to cancer screening - The Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm53ZW1haWwuY28udWsvbmV3cy8yNDM4NzQ5Mi5uaHMtdXJnZXMtcGVvcGxlLWFjY2VwdC1pbnZpdGUtY2FuY2VyLXNjcmVlbmluZy_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Wales Online",
+      "title": "I felt bloated whenever I ate carbs, in hospital they told me I could die - Wales Online",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LndhbGVzb25saW5lLmNvLnVrL25ld3Mvd2FsZXMtbmV3cy9mZWx0LWJsb2F0ZWQtcGFpbi13aGVuZXZlci1hdGUtMjkzMzgzMDXSAVlodHRwczovL3d3dy53YWxlc29ubGluZS5jby51ay9uZXdzL3dhbGVzLW5ld3MvZmVsdC1ibG9hdGVkLXBhaW4td2hlbmV2ZXItYXRlLTI5MzM4MzA1LmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15T04:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Bournemouth Echo",
+      "title": "Move with Lu pilates is Trader of the Week - Bournemouth Echo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmJvdXJuZW1vdXRoZWNoby5jby51ay9uZXdzLzI0Mzg2MjQwLm1vdmUtbHUtcGlsYXRlcy10cmFkZXItd2Vlay_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T23:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Sun",
+      "title": "Surprising & tasty way to beat hayfever and 14 other top tips to stifle the sniffles as pollen bomb hits... - The Sun",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9oZWFsdGgvMjg1MTQ0NDMvaGF5ZmV2ZXItaGVhbHRoLXRpcHMtcG9sbGVuLWJvbWIv0gFOaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrL2hlYWx0aC8yODUxNDQ0My9oYXlmZXZlci1oZWFsdGgtdGlwcy1wb2xsZW4tYm9tYi9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T22:19:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Record",
+      "title": "Doctor paralysed having 'made peace' with death days after catching Covid-19 at wedding - Daily Record",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9kb2N0b3ItcGFyYWx5c2VkLWhhdmluZy1tYWRlLXBlYWNlLTMzMDM0OTQ20gFgaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL2RvY3Rvci1wYXJhbHlzZWQtaGF2aW5nLW1hZGUtcGVhY2UtMzMwMzQ5NDYuYW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T20:05:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "FUS Protein Linked to FTD and ALS Spread - Neuroscience News",
+      "description": "A new study reveals how the FUS protein aggregates and spreads in frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS).",
+      "url": "https://neurosciencenews.com/fus-ftd-als-neurology-26328/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/06/ftd-als-fud-neuroscience.jpg",
+      "publishedAt": "2024-06-14T19:33:24Z",
+      "content": "Summary: A new study reveals how the FUS protein aggregates and spreads in frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS).\r\nThe research shows that misfolded FUS proteins act l… [+6741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Vitamin B6 Boost Method Offers Hope for Brain Health - Neuroscience News",
+      "description": "Researchers discovered a way to increase vitamin B6 levels in cells by inhibiting its degradation, potentially improving memory and learning.",
+      "url": "https://neurosciencenews.com/vitamin-b6-memory-depression-26326/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/06/vitamin-b6-brain-health-neurosicence.jpg",
+      "publishedAt": "2024-06-14T19:19:38Z",
+      "content": "Summary: Researchers discovered a way to increase vitamin B6 levels in cells by inhibiting its degradation, potentially improving memory and learning. Their study found that a natural substance, 7,8-… [+6254 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Neuroscience News",
+      "title": "AI-Powered Pills Track Gut Health in Real Time - Neuroscience News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vbmV1cm9zY2llbmNlbmV3cy5jb20vYWktZ2ktcGlsbC1uZXVyb3NjaWVuY2UtMjYzMjMv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T18:12:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Mirror",
+      "title": "'I thought I'd itch insect bite - then docs said I might have just 12 months to live' - The Mirror",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvaS10aG91Z2h0LWlkLWl0Y2gtaW5zZWN0LTMzMDMyOTc20gFLaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL25ld3MvdWstbmV3cy9pLXRob3VnaHQtaWQtaXRjaC1pbnNlY3QtMzMwMzI5NzYuYW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T18:08:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Armagh I",
+      "title": "Hidden Disabilities: Craigavon woman Leonie on life with Ulcerative Colitis - Armagh I",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vYXJtYWdoaS5jb20vbmV3cy9jcmFpZ2F2b24tbmV3cy9oaWRkZW4tZGlzYWJpbGl0aWVzLWNyYWlnYXZvbi13b21hbi1sZW9uaWUtb24tbGlmZS13aXRoLXVsY2VyYXRpdmUtY29saXRpcy8yNDQ4MjDSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T17:02:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Telegraph and Argus",
+      "title": "Support service warns of 'considerable' Spice overdoses in Bradford | Bradford Telegraph and Argus - Telegraph and Argus",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRoZXRlbGVncmFwaGFuZGFyZ3VzLmNvLnVrL25ld3MvMjQzODkzNjQuc3VwcG9ydC1zZXJ2aWNlLXdhcm5zLWNvbnNpZGVyYWJsZS1zcGljZS1vdmVyZG9zZXMtYnJhZGZvcmQv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T16:45:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Mail",
+      "title": "Britain's top medical journal slaps warning label on scientific study IT published... after paper was hailed a - Daily Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvaGVhbHRoL2FydGljbGUtMTM1MDIxNzUvbWVkaWNhbC1qb3VybmFsLUJNSi13YXJuaW5nLWxhYmVsLXNjaWVudGlmaWMtc3R1ZHktQ292aWQtamFicy1raWxsZWQtbWlsbGlvbnMuaHRtbNIBigFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvaGVhbHRoL2FydGljbGUtMTM1MDIxNzUvYW1wL21lZGljYWwtam91cm5hbC1CTUotd2FybmluZy1sYWJlbC1zY2llbnRpZmljLXN0dWR5LUNvdmlkLWphYnMta2lsbGVkLW1pbGxpb25zLmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T16:22:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Independent",
+      "title": "'Don't cry for me' says breast cancer awareness campaigner in her final post - The Independent",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvaGVhbHRoL2thdGUtcmFja2hhbS1icmVhc3QtY2FuY2VyLXBvc3QtYjI1NjI3NjAuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T16:15:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Liverpool Echo",
+      "title": "Mum given devastating blow one week after dad's funeral - Liverpool Echo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy9saXZlcnBvb2wtbmV3cy9tdW0tZ2l2ZW4tZGV2YXN0YXRpbmctYmxvdy1vbmUtMjkzNTU0OTDSAV9odHRwczovL3d3dy5saXZlcnBvb2xlY2hvLmNvLnVrL25ld3MvbGl2ZXJwb29sLW5ld3MvbXVtLWdpdmVuLWRldmFzdGF0aW5nLWJsb3ctb25lLTI5MzU1NDkwLmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T14:38:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Sun",
+      "title": "Map reveals ‘100-day cough’ hotspots amid fears of ‘dangerous’ antibiotic shortage... - The Sun",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9oZWFsdGgvMjg1MDM5NDMvbWFwLXJldmVhbC1ob3RzcG90LWFudGliaW90aWMtc2hvcnRhZ2Uv0gFUaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrL2hlYWx0aC8yODUwMzk0My9tYXAtcmV2ZWFsLWhvdHNwb3QtYW50aWJpb3RpYy1zaG9ydGFnZS9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T14:37:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Metro.co.uk",
+      "title": "End of life nurse reveals the 'worst' (and 'best') diseases to die from - Metro.co.uk",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbWV0cm8uY28udWsvMjAyNC8wNi8xNC9lbmQtbGlmZS1udXJzZS1yZXZlYWxzLXdvcnN0LWJlc3QtZGlzZWFzZXMtZGllLTIxMDMzNjgwL9IBW2h0dHBzOi8vbWV0cm8uY28udWsvMjAyNC8wNi8xNC9lbmQtbGlmZS1udXJzZS1yZXZlYWxzLXdvcnN0LWJlc3QtZGlzZWFzZXMtZGllLTIxMDMzNjgwL2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T14:18:00Z",
+      "content": null
+    }
+  ]
+}
